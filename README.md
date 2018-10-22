@@ -57,13 +57,13 @@ Topic: Hariitha Atmakuri
 ## B - Assistant
 Topic: Devops
 
-## Team Member 1
+## Team Member 1 
 
-Topic:
+Topic: 
 
-## Team Member 2
+## Team Member 2 Varun Anugu
 
-Topic:
+Topic: Devops
 
 ## Team Member 3
 
@@ -148,7 +148,9 @@ Topic:
 
 ## Team Member 23
 
-Topic:
+
+Vishal Pannala
+Topic: AngularJs
 
 ## Team Member 24
 
@@ -172,7 +174,7 @@ Topic:
 
 ## Team Member 29
 
-Topic:
+Topic: Krishna Teja,K
 
 ## Team Member 30
 
@@ -200,7 +202,7 @@ Topic:
 
 ## Team Member 36
 
-Topic:
+Topic: JavaScript
 
 ## Team Member 37:
 
