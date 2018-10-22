@@ -53,10 +53,14 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 ## A - Instructor
 
 <<<<<<< HEAD
+Topic:
+=======
+<<<<<<< HEAD
 Topic: 
 =======
 Topic: Hariitha Atmakuri
 >>>>>>> 96f56fecc5679436cdf99c87a5a65a12b06943ae
+>>>>>>> d75035e04b426405943185eba64adbea3d2a584e
 
 ## B - Assistant
 <<<<<<< Updated upstream
@@ -165,8 +169,8 @@ Vishal Pannala
 Topic: AngularJs
 
 ## Team Member 24
-
-Topic:
+Haritha Atmakuri
+Topic: grid 
 
 ## Team Member 25
 
