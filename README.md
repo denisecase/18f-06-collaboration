@@ -197,7 +197,7 @@ Topic:
 
 ## Team Member 35
 
-Topic: FlexBox-1D
+Topic: FlexBox
 
 ## Team Member 36
 
