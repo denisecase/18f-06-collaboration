@@ -192,7 +192,7 @@ Topic:
 
 ## Team Member 34
 
-Topic: Atluri,Mouni krishna
+Topic: Atluri,Mouni Krishna
 
 ## Team Member 35
 
