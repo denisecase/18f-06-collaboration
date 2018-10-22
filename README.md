@@ -68,7 +68,7 @@ Topic: Devops
 
 ## Team Member 3
 
-Topic:
+Name: Havya Ravipati Topic: VueJs
 
 ## Team Member 4
 
