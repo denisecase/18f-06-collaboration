@@ -11,7 +11,7 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 ## Windows Requirements
 
 1. Git For Windows
-2. TortoiseGit
+2. TortoiseGiti
 
 ## Open Course Folder
 
@@ -52,11 +52,6 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## A - Instructor
 
-Topic: ReactJS(Abhiram Madugula)
-
-## B - Assistant
-
-=======
 Topic:
 =======
 
@@ -72,10 +67,20 @@ Topic:
 ## Team Member 1 
 
 Topic: 
+=======
+Topic: Introducing others...
+
+## B - Assistant
+Topic: Devops
+
+## Team Member 1 
+
+Topic:Gopi
+
 
 ## Team Member 2 Varun Anugu
 
-Topic: Devops
+Topic: Devops 
 
 ## Team Member 3
 
@@ -114,16 +119,16 @@ Topic:
 Topic:
 
 ## Team Member 12
-
-Topic: ReactJS(Abhiram Madugula)
+Name: Abhiram Madugula
+Topic: ReactJS
 
 ## Team Member 13
 
-Topic:
+Topic: ReactJS  (Satyavrath Injamuri)
 
 ## Team Member 14
 
-Topic:
+Topic:AKhila Reddy
 
 ## Team Member 15
 
@@ -164,8 +169,8 @@ Vishal Pannala
 Topic: AngularJs
 
 ## Team Member 24
-Haritha Atmakuri
-Topic: grid 
+
+Topic:
 
 ## Team Member 25
 
@@ -192,8 +197,8 @@ Topic: Krishna Teja,K
 Topic:
 
 ## Team Member 31
-Name: Austin Caligiuri
-Topic: HTML
+
+Topic:
 
 ## Team Member 32
 
@@ -201,7 +206,7 @@ Topic:
 
 ## Team Member 33
 
-Topic:Section 06 - Sai Tejaswini Narne
+Topic: Section 06 - Sai Tejaswini Narne
 
 ## Team Member 34
 
@@ -228,8 +233,8 @@ Name: "Zachary Haider"
 Topic: Css
 
 ## Team Member 40
-Name: Chase Keller
-Topic: Css
+
+Topic:
 
 ## Team Member 41
 
@@ -250,3 +255,8 @@ Topic:
 ## Team Member 45
 
 Topic:
+
+## Team Member 45
+
+Name: chinmai sai sure
+Topic: Grid2D
