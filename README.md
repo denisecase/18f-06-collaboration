@@ -55,12 +55,7 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 Topic: Hariitha Atmakuri
 
 ## B - Assistant
-<<<<<<< HEAD
-
-Topic: 
-=======
 Topic: Devops
->>>>>>> 7b3923f23dbdff4f8392d1c006c83608d224c136
 
 ## Team Member 1 
 
