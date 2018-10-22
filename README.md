@@ -74,7 +74,6 @@ Topic: Hariitha Atmakuri
 Topic: 
 =======
 Topic: 
->>>>>>> 1eb0e1d372496fb4c45602844cdfb7864584abc6
 
 ## B - Assistant
 
@@ -83,7 +82,6 @@ Topic:
 ## Team Member 1 
 
 Topic: 
->>>>>>> 65b8b6834f16e12011b9285a47596dd50a55f8df
 
 ## Team Member 2 Varun Anugu
 
@@ -201,7 +199,7 @@ Topic: Krishna Teja,K
 
 ## Team Member 30
 
-Topic:
+Topic: Mehar Choudhary
 
 ## Team Member 31
 Name: Austin Caligiuri
@@ -209,7 +207,7 @@ Topic: HTML
 
 ## Team Member 32
 
-Topic:
+Topic: Section 06 - Harika, Naidu
 
 ## Team Member 33
 
