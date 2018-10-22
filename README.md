@@ -58,9 +58,9 @@ Topic:
 ## B - Assistant
 Topic: Devops
 
-## Team Member 1 
+## Team Member 1 Gopi
 
-Topic:Gopi
+Topic:DevOps
 =======
 
 Topic:
