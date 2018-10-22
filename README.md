@@ -53,17 +53,35 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 ## A - Instructor
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Topic: Satyakanth Reddy Kolakani
 =======
 Topic: Hariitha Atmakuri
 >>>>>>> 90a957e5731f4f4c14759072fffcc7da69c7a5b5
+=======
+Topic:
+=======
+<<<<<<< HEAD
+Topic: 
+=======
+Topic: 
+>>>>>>> 1eb0e1d372496fb4c45602844cdfb7864584abc6
 
 ## B - Assistant
+<<<<<<< Updated upstream
 Topic: Devops
+=======
+
+Topic: 
+>>>>>>> Stashed changes
 
 ## Team Member 1 
 
+<<<<<<< HEAD
+Topic:Gopi
+=======
 Topic: 
+>>>>>>> 7851862f873af3b63e44eb652b0fc899516aaa57
 
 ## Team Member 2 Varun Anugu
 
@@ -156,8 +174,8 @@ Vishal Pannala
 Topic: AngularJs
 
 ## Team Member 24
-
-Topic:
+Haritha Atmakuri
+Topic: grid 
 
 ## Team Member 25
 
@@ -173,7 +191,7 @@ Topic:
 
 ## Team Member 28
 
-Topic:
+Topic: Dasari venkat 
 
 ## Team Member 29
 
@@ -184,8 +202,8 @@ Topic: Krishna Teja,K
 Topic:
 
 ## Team Member 31
-
-Topic:
+Name: Austin Caligiuri
+Topic: HTML
 
 ## Team Member 32
 
@@ -193,7 +211,7 @@ Topic:
 
 ## Team Member 33
 
-Topic:
+Topic:Section 06 - Sai Tejaswini Narne
 
 ## Team Member 34
 
@@ -201,7 +219,7 @@ Topic:
 
 ## Team Member 35
 
-Topic:
+Topic: FlexBox
 
 ## Team Member 36
 
@@ -220,8 +238,8 @@ Name: "Zachary Haider"
 Topic: Css
 
 ## Team Member 40
-
-Topic:
+Name: Chase Keller
+Topic: Css
 
 ## Team Member 41
 
