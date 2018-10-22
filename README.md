@@ -52,7 +52,7 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## A - Instructor
 
-Topic: Satyakanth Kolakani
+Topic: Satyakanth Reddy Kolakani
 
 ## B - Assistant
 
@@ -135,7 +135,7 @@ Topic:
 Topic:
 
 ## Team Member 20
-
+Satyakanth Kolakani
 Topic:
 
 ## Team Member 21
