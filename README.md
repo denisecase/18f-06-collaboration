@@ -67,7 +67,11 @@ Topic: Devops
 
 ## Team Member 1 
 
+<<<<<<< HEAD
+Topic:Gopi
+=======
 Topic: 
+>>>>>>> 7851862f873af3b63e44eb652b0fc899516aaa57
 
 ## Team Member 2 Varun Anugu
 
@@ -177,7 +181,7 @@ Topic:
 
 ## Team Member 28
 
-Topic:
+Topic: Dasari venkat 
 
 ## Team Member 29
 
@@ -188,8 +192,8 @@ Topic: Krishna Teja,K
 Topic:
 
 ## Team Member 31
-
-Topic:
+Name: Austin Caligiuri
+Topic: HTML
 
 ## Team Member 32
 
