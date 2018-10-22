@@ -193,7 +193,7 @@ Topic:
 
 ## Team Member 33
 
-Topic: Section 06 - Sai Tejaswini Narne
+Topic:Section 06 - Sai Tejaswini Narne
 
 ## Team Member 34
 
