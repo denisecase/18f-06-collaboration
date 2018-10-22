@@ -53,26 +53,37 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 ## A - Instructor
 
 <<<<<<< HEAD
-Topic: 
-=======
-Topic: Hariitha Atmakuri
->>>>>>> 96f56fecc5679436cdf99c87a5a65a12b06943ae
+Topic:
 
 ## B - Assistant
-<<<<<<< Updated upstream
 Topic: Devops
+
+## Team Member 1 Gopi
+
+Topic:DevOps
 =======
 
+Topic:
+<<<<<<< HEAD
+
+Topic: Hariitha Atmakuri
+
+=======
+=======
+<<<<<<< HEAD
 Topic: 
->>>>>>> Stashed changes
+=======
+Topic: 
+>>>>>>> 1eb0e1d372496fb4c45602844cdfb7864584abc6
+
+## B - Assistant
+
+Topic: 
 
 ## Team Member 1 
 
-<<<<<<< HEAD
-Topic:Gopi
-=======
 Topic: 
->>>>>>> 7851862f873af3b63e44eb652b0fc899516aaa57
+>>>>>>> 65b8b6834f16e12011b9285a47596dd50a55f8df
 
 ## Team Member 2 Varun Anugu
 
@@ -124,7 +135,7 @@ Topic:
 
 ## Team Member 14
 
-Topic:
+Topic:AKhila Reddy
 
 ## Team Member 15
 
@@ -165,8 +176,8 @@ Vishal Pannala
 Topic: AngularJs
 
 ## Team Member 24
-
-Topic:
+Haritha Atmakuri
+Topic: grid 
 
 ## Team Member 25
 
@@ -202,7 +213,7 @@ Topic:
 
 ## Team Member 33
 
-Topic: Section 06 - Sai Tejaswini Narne
+Topic:Section 06 - Sai Tejaswini Narne
 
 ## Team Member 34
 
@@ -210,7 +221,7 @@ Topic:
 
 ## Team Member 35
 
-Topic:
+Topic: FlexBox
 
 ## Team Member 36
 
