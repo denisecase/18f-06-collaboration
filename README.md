@@ -54,29 +54,36 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 <<<<<<< HEAD
 Topic:
+
+## B - Assistant
+Topic: Devops
+
+## Team Member 1 Gopi
+
+Topic:DevOps
+=======
+
+Topic:
+<<<<<<< HEAD
+
+Topic: Hariitha Atmakuri
+
+=======
 =======
 <<<<<<< HEAD
 Topic: 
 =======
-Topic: Hariitha Atmakuri
->>>>>>> 96f56fecc5679436cdf99c87a5a65a12b06943ae
->>>>>>> d75035e04b426405943185eba64adbea3d2a584e
+Topic: 
+>>>>>>> 1eb0e1d372496fb4c45602844cdfb7864584abc6
 
 ## B - Assistant
-<<<<<<< Updated upstream
-Topic: Devops
-=======
 
 Topic: 
->>>>>>> Stashed changes
 
 ## Team Member 1 
 
-<<<<<<< HEAD
-Topic:Gopi
-=======
 Topic: 
->>>>>>> 7851862f873af3b63e44eb652b0fc899516aaa57
+>>>>>>> 65b8b6834f16e12011b9285a47596dd50a55f8df
 
 ## Team Member 2 Varun Anugu
 
@@ -128,7 +135,7 @@ Topic:
 
 ## Team Member 14
 
-Topic:
+Topic:AKhila Reddy
 
 ## Team Member 15
 
