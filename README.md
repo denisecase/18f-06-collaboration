@@ -58,9 +58,9 @@ Topic:
 ## B - Assistant
 Topic: Devops
 
-## Team Member 1 
+## Team Member 1 Gopi
 
-Topic:Gopi
+Topic:DevOps
 =======
 
 Topic:
@@ -199,7 +199,7 @@ Topic: Krishna Teja,K
 
 ## Team Member 30
 
-Topic:
+Topic: Mehar Choudhary
 
 ## Team Member 31
 Name: Austin Caligiuri
