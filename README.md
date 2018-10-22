@@ -147,7 +147,9 @@ Topic:
 
 ## Team Member 23
 
-Topic:
+
+Vishal Pannala
+Topic: AngularJs
 
 ## Team Member 24
 Haritha Atmakuri
@@ -171,7 +173,7 @@ Topic:
 
 ## Team Member 29
 
-Topic:
+Topic: Krishna Teja,K
 
 ## Team Member 30
 
