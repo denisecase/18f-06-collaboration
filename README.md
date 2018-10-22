@@ -52,11 +52,15 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## A - Instructor
 
-Topic:
+Topic: Hariitha Atmakuri
 
 ## B - Assistant
+<<<<<<< HEAD
 
-Topic:
+Topic: 
+=======
+Topic: Devops
+>>>>>>> 7b3923f23dbdff4f8392d1c006c83608d224c136
 
 ## Team Member 1
 
@@ -84,7 +88,7 @@ Topic:
 
 ## Team Member 7
 
-Topic:
+Topic: priyanka Bonam(7)
 
 ## Team Member 8
 
@@ -116,7 +120,7 @@ Topic:
 
 ## Team Member 15
 
-Topic:
+Topic: Jyoshna Boppidi
 
 ## Team Member 16
 
@@ -202,17 +206,17 @@ Topic:
 
 Topic:
 
-## Team Member 37
+## Team Member 37:
 
-Topic:
+Topic: REST API.
 
 ## Team Member 38
-
-Topic:
+Name: Hayden Rainey
+Topic: Bootstrap
 
 ## Team Member 39
-
-Topic:
+Name: "Zachary Haider"
+Topic: Css
 
 ## Team Member 40
 
