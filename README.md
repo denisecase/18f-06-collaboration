@@ -62,13 +62,13 @@ Topic:
 Topic: Devops
 >>>>>>> 7b3923f23dbdff4f8392d1c006c83608d224c136
 
-## Team Member 1 varun Anugu
+## Team Member 1 
 
 Topic: 
 
-## Team Member 2
+## Team Member 2 Varun Anugu
 
-Topic:
+Topic: Devops
 
 ## Team Member 3
 
