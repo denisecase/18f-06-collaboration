@@ -52,11 +52,18 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## A - Instructor
 
+<<<<<<< HEAD
 Topic: ReactJS(Abhiram Madugula)
 
 ## B - Assistant
 
 Topic: 
+=======
+Topic: Hariitha Atmakuri
+
+## B - Assistant
+Topic: Devops
+>>>>>>> 4b6ec6283bca20757a65ce20b0d13d72ea1934fb
 
 ## Team Member 1
 
@@ -116,7 +123,7 @@ Topic:
 
 ## Team Member 15
 
-Topic:
+Topic: Jyoshna Boppidi
 
 ## Team Member 16
 
@@ -202,17 +209,17 @@ Topic:
 
 Topic:
 
-## Team Member 37
+## Team Member 37:
 
-Topic:
+Topic: REST API.
 
 ## Team Member 38
-
-Topic:
+Name: Hayden Rainey
+Topic: Bootstrap
 
 ## Team Member 39
-
-Topic:
+Name: "Zachary Haider"
+Topic: Css
 
 ## Team Member 40
 
@@ -220,7 +227,7 @@ Topic:
 
 ## Team Member 41
 
-Topic:
+Name: Priyanka Khanal Topic: CSS
 
 ## Team Member 42
 
