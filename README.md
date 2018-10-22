@@ -57,13 +57,17 @@ Topic: Hariitha Atmakuri
 ## B - Assistant
 Topic: Devops
 
-## Team Member 1
+## Team Member 1 
 
+<<<<<<< HEAD
 Topic:Gopi
+=======
+Topic: 
+>>>>>>> 7851862f873af3b63e44eb652b0fc899516aaa57
 
-## Team Member 2
+## Team Member 2 Varun Anugu
 
-Topic:
+Topic: Devops
 
 ## Team Member 3
 
@@ -171,7 +175,7 @@ Topic:
 
 ## Team Member 29
 
-Topic:
+Topic: Krishna Teja,K
 
 ## Team Member 30
 
@@ -199,7 +203,7 @@ Topic:
 
 ## Team Member 36
 
-Topic:
+Topic: JavaScript
 
 ## Team Member 37:
 
