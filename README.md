@@ -52,14 +52,22 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## A - Instructor
 
+<<<<<<< HEAD
+Topic: 
+=======
 Topic: Hariitha Atmakuri
+>>>>>>> 96f56fecc5679436cdf99c87a5a65a12b06943ae
 
 ## B - Assistant
 Topic: Devops
 
 ## Team Member 1 
 
+<<<<<<< HEAD
+Topic:Gopi
+=======
 Topic: 
+>>>>>>> 7851862f873af3b63e44eb652b0fc899516aaa57
 
 ## Team Member 2 Varun Anugu
 
@@ -169,7 +177,7 @@ Topic:
 
 ## Team Member 28
 
-Topic:
+Topic: Dasari venkat 
 
 ## Team Member 29
 
@@ -180,8 +188,8 @@ Topic: Krishna Teja,K
 Topic: Mehar Choudhary
 
 ## Team Member 31
-
-Topic:
+Name: Austin Caligiuri
+Topic: HTML
 
 ## Team Member 32
 
@@ -189,7 +197,7 @@ Topic:
 
 ## Team Member 33
 
-Topic:
+Topic: Section 06 - Sai Tejaswini Narne
 
 ## Team Member 34
 
