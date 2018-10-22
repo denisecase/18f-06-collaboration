@@ -201,12 +201,12 @@ Topic:
 
 Topic:
 
-## Team Member 37
+## Team Member 37:
 
 Topic: REST API.
 
 ## Team Member 38
-
+Name: Hayden Rainey
 Topic: Bootstrap
 
 ## Team Member 39
