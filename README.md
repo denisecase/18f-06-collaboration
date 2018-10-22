@@ -207,7 +207,7 @@ Topic:
 Topic: REST API.
 
 ## Team Member 38
-
+Name: Hayden Rainey
 Topic: Bootstrap
 
 ## Team Member 39
