@@ -52,7 +52,7 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## A - Instructor
 
-Topic:
+Topic: 
 
 ## B - Assistant
 
@@ -188,7 +188,7 @@ Topic:
 
 ## Team Member 33
 
-Topic:
+Topic: Section 06 - Sai Tejaswini Narne
 
 ## Team Member 34
 
