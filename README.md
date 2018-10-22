@@ -51,38 +51,11 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 1. Try Push again. Right-click in this folder, and select Git / Push.
 
 ## A - Instructor
-<<<<<<< HEAD
-dgjkfgjdfgjdfgfkgj
-Topic: Hariitha Atmakuri
-=======
 
-<<<<<<< HEAD
-Topic:
->>>>>>> c71627cf3f448aca82aea8953098836b57386981
+Topic: Hariitha Atmakuri
 
 ## B - Assistant
 Topic: Devops
-
-## Team Member 1 Gopi
-
-Topic:DevOps
-=======
-
-Topic:
-<<<<<<< HEAD
-
-Topic: Hariitha Atmakuri
-
-=======
-=======
-<<<<<<< HEAD
-Topic: 
-=======
-Topic: 
-
-## B - Assistant
-
-Topic: 
 
 ## Team Member 1 
 
@@ -134,16 +107,11 @@ Topic:
 
 ## Team Member 13
 
-Topic: ReactJS (Satyavrath Injamuri)
+Topic: ReactJS  (Satyavrath Injamuri)
 
 ## Team Member 14
 
-<<<<<<< HEAD
-Topic:Vamsee Krishna Ganagpatnam topic is SSH Keys
-
-=======
-Topic:AKhila Reddy
->>>>>>> c71627cf3f448aca82aea8953098836b57386981
+Topic:
 
 ## Team Member 15
 
@@ -184,8 +152,8 @@ Vishal Pannala
 Topic: AngularJs
 
 ## Team Member 24
-Haritha Atmakuri
-Topic: grid 
+
+Topic:
 
 ## Team Member 25
 
@@ -209,19 +177,19 @@ Topic: Krishna Teja,K
 
 ## Team Member 30
 
-Topic: Mehar Choudhary
+Topic:
 
 ## Team Member 31
-Name: Austin Caligiuri
-Topic: HTML
+
+Topic:
 
 ## Team Member 32
 
-Topic: Section 06 - Harika, Naidu
+Topic:
 
 ## Team Member 33
 
-Topic:Section 06 - Sai Tejaswini Narne
+Topic: Section 06 - Sai Tejaswini Narne
 
 ## Team Member 34
 
@@ -229,7 +197,7 @@ Topic:
 
 ## Team Member 35
 
-Topic: FlexBox
+Topic:
 
 ## Team Member 36
 
@@ -248,8 +216,8 @@ Name: "Zachary Haider"
 Topic: Css
 
 ## Team Member 40
-Name: Chase Keller
-Topic: Css
+
+Topic:
 
 ## Team Member 41
 
