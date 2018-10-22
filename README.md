@@ -56,7 +56,7 @@ Topic:
 
 ## B - Assistant
 
-Topic:
+Topic: Hello
 
 ## Team Member 1
 
