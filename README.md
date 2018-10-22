@@ -208,7 +208,7 @@ Topic:Section 06 - Sai Tejaswini Narne
 
 ## Team Member 34
 
-Topic: robotics
+Topic: bootstrap
 
 ## Team Member 35
 
