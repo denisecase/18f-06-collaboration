@@ -52,8 +52,6 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## A - Instructor
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 Topic: ReactJS(Abhiram Madugula)
 
 ## B - Assistant
@@ -61,33 +59,19 @@ Topic: ReactJS(Abhiram Madugula)
 =======
 Topic:
 =======
-<<<<<<< HEAD
->>>>>>> d43ecc2504c4ca1fe0f0afdfc181325ce05aba1a
+
 Topic: 
 =======
-Topic: Hariitha Atmakuri
->>>>>>> 96f56fecc5679436cdf99c87a5a65a12b06943ae
->>>>>>> d75035e04b426405943185eba64adbea3d2a584e
+Topic: Hariitha Atmakur
 
 ## B - Assistant
-<<<<<<< Updated upstream
-Topic: Devops
-<<<<<<< HEAD
->>>>>>> 4b6ec6283bca20757a65ce20b0d13d72ea1934fb
-=======
 =======
 
 Topic: 
->>>>>>> Stashed changes
->>>>>>> d43ecc2504c4ca1fe0f0afdfc181325ce05aba1a
 
 ## Team Member 1 
 
-<<<<<<< HEAD
-Topic:Gopi
-=======
 Topic: 
->>>>>>> 7851862f873af3b63e44eb652b0fc899516aaa57
 
 ## Team Member 2 Varun Anugu
 
