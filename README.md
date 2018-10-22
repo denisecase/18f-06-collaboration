@@ -51,6 +51,10 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 1. Try Push again. Right-click in this folder, and select Git / Push.
 
 ## A - Instructor
+<<<<<<< HEAD
+dgjkfgjdfgjdfgfkgj
+Topic: Hariitha Atmakuri
+=======
 
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -60,6 +64,7 @@ Topic: Hariitha Atmakuri
 >>>>>>> 90a957e5731f4f4c14759072fffcc7da69c7a5b5
 =======
 Topic:
+>>>>>>> c71627cf3f448aca82aea8953098836b57386981
 
 ## B - Assistant
 Topic: Devops
@@ -80,7 +85,6 @@ Topic: Hariitha Atmakuri
 Topic: 
 =======
 Topic: 
->>>>>>> 1eb0e1d372496fb4c45602844cdfb7864584abc6
 
 ## B - Assistant
 
@@ -89,7 +93,6 @@ Topic:
 ## Team Member 1 
 
 Topic: 
->>>>>>> 65b8b6834f16e12011b9285a47596dd50a55f8df
 
 ## Team Member 2 Varun Anugu
 
@@ -141,7 +144,12 @@ Topic:
 
 ## Team Member 14
 
+<<<<<<< HEAD
+Topic:Vamsee Krishna Ganagpatnam topic is SSH Keys
+
+=======
 Topic:AKhila Reddy
+>>>>>>> c71627cf3f448aca82aea8953098836b57386981
 
 ## Team Member 15
 
@@ -209,7 +217,7 @@ Topic: Krishna Teja,K
 
 ## Team Member 30
 
-Topic:
+Topic: Mehar Choudhary
 
 ## Team Member 31
 Name: Austin Caligiuri
@@ -217,7 +225,7 @@ Topic: HTML
 
 ## Team Member 32
 
-Topic:
+Topic: Section 06 - Harika, Naidu
 
 ## Team Member 33
 
