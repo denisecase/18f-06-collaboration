@@ -52,22 +52,6 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## A - Instructor
 
-Topic:
-=======
-
-Topic: 
-=======
-Topic: Hariitha Atmakur
-
-## B - Assistant
-=======
-
-Topic: 
-
-## Team Member 1 
-
-Topic: 
-=======
 Topic: Introducing others...
 
 ## B - Assistant
