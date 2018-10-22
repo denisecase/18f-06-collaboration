@@ -52,7 +52,7 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## A - Instructor
 
-Topic: 
+Topic:
 
 ## B - Assistant
 Topic: Devops
@@ -152,8 +152,8 @@ Vishal Pannala
 Topic: AngularJs
 
 ## Team Member 24
-
-Topic:
+Haritha Atmakuri
+Topic: grid 
 
 ## Team Member 25
 
@@ -180,8 +180,8 @@ Topic: Krishna Teja,K
 Topic:
 
 ## Team Member 31
-
-Topic:
+Name: Austin Caligiuri
+Topic: HTML
 
 ## Team Member 32
 
@@ -189,7 +189,7 @@ Topic:
 
 ## Team Member 33
 
-Topic: Section 06 - Sai Tejaswini Narne
+Topic:Section 06 - Sai Tejaswini Narne
 
 ## Team Member 34
 
@@ -216,8 +216,8 @@ Name: "Zachary Haider"
 Topic: Css
 
 ## Team Member 40
-
-Topic:
+Name: Chase Keller
+Topic: Css
 
 ## Team Member 41
 
