@@ -166,7 +166,7 @@ Topic:
 ## Team Member 20
 
 
-Name : Satyakanth Kolakani
+Name:Satyakanth Kolakani
 Topic:Flex Box
 
 ## Team Member 21
