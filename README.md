@@ -52,11 +52,10 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## A - Instructor
 
-Topic:
+Topic: Hariitha Atmakuri
 
 ## B - Assistant
-
-Topic:
+Topic: Devops
 
 ## Team Member 1
 
@@ -116,7 +115,7 @@ Topic:Vamsee Krishna Ganagpatnam topic is SSH Keys
 
 ## Team Member 15
 
-Topic:
+Topic: Jyoshna Boppidi
 
 ## Team Member 16
 
@@ -220,7 +219,7 @@ Topic:
 
 ## Team Member 41
 
-Topic:
+Name: Priyanka Khanal Topic: CSS
 
 ## Team Member 42
 
