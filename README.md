@@ -51,6 +51,34 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 1. Try Push again. Right-click in this folder, and select Git / Push.
 
 ## A - Instructor
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+dgjkfgjdfgjdfgfkgj
+Topic: Hariitha Atmakuri
+=======
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+Topic: Satyakanth Reddy Kolakani
+=======
+Topic: Hariitha Atmakuri
+>>>>>>> 90a957e5731f4f4c14759072fffcc7da69c7a5b5
+=======
+Topic:
+>>>>>>> c71627cf3f448aca82aea8953098836b57386981
+
+## B - Assistant
+Topic: Devops
+
+## Team Member 1 Gopi
+
+Topic:DevOps
+=======
+
+Topic:
+<<<<<<< HEAD
+>>>>>>> 67e7e33a5edb034dd21f31a163bc717dcd597a6d
 
 Topic: Hariitha Atmakuri
 
@@ -135,7 +163,9 @@ Topic:
 
 ## Team Member 20
 
-Topic:
+
+Name:Satyakanth Kolakani
+Topic:Flex Box
 
 ## Team Member 21
 
