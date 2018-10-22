@@ -55,8 +55,7 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 Topic:
 
 ## B - Assistant
-
-Topic:
+Topic: Devops
 
 ## Team Member 1
 
