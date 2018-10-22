@@ -55,7 +55,12 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 Topic: Hariitha Atmakuri
 
 ## B - Assistant
+<<<<<<< Updated upstream
 Topic: Devops
+=======
+
+Topic: 
+>>>>>>> Stashed changes
 
 ## Team Member 1 
 
@@ -214,8 +219,8 @@ Name: "Zachary Haider"
 Topic: Css
 
 ## Team Member 40
-
-Topic:
+Name: Chase Keller
+Topic: Css
 
 ## Team Member 41
 
