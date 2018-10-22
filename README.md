@@ -55,20 +55,15 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 Topic: Hariitha Atmakuri
 
 ## B - Assistant
-<<<<<<< HEAD
+Topic: Devops
+
+## Team Member 1 
 
 Topic: 
-=======
+
+## Team Member 2 Varun Anugu
+
 Topic: Devops
->>>>>>> 7b3923f23dbdff4f8392d1c006c83608d224c136
-
-## Team Member 1
-
-Topic:
-
-## Team Member 2
-
-Topic:
 
 ## Team Member 3
 
@@ -152,7 +147,9 @@ Topic:
 
 ## Team Member 23
 
-Topic:
+
+Vishal Pannala
+Topic: AngularJs
 
 ## Team Member 24
 
@@ -176,7 +173,7 @@ Topic:
 
 ## Team Member 29
 
-Topic:
+Topic: Krishna Teja,K
 
 ## Team Member 30
 
@@ -204,7 +201,7 @@ Topic:
 
 ## Team Member 36
 
-Topic:
+Topic: JavaScript
 
 ## Team Member 37:
 
