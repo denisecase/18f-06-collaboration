@@ -59,7 +59,12 @@ Topic: Hariitha Atmakuri
 >>>>>>> 96f56fecc5679436cdf99c87a5a65a12b06943ae
 
 ## B - Assistant
+<<<<<<< Updated upstream
 Topic: Devops
+=======
+
+Topic: 
+>>>>>>> Stashed changes
 
 ## Team Member 1 
 
@@ -224,8 +229,8 @@ Name: "Zachary Haider"
 Topic: Css
 
 ## Team Member 40
-
-Topic:
+Name: Chase Keller
+Topic: Css
 
 ## Team Member 41
 
