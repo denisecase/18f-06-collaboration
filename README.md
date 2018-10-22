@@ -11,7 +11,7 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 ## Windows Requirements
 
 1. Git For Windows
-2. TortoiseGit
+2. TortoiseGiti
 
 ## Open Course Folder
 
@@ -55,7 +55,6 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 Topic: Introducing others...
 
 ## B - Assistant
-
 Topic: Devops
 
 ## Team Member 1 
@@ -65,7 +64,7 @@ Topic:Gopi
 
 ## Team Member 2 Varun Anugu
 
-Topic: Devops
+Topic: Devops 
 
 ## Team Member 3
 
@@ -109,7 +108,7 @@ Topic:
 
 ## Team Member 13
 
-Topic:
+Topic: ReactJS  (Satyavrath Injamuri)
 
 ## Team Member 14
 
@@ -154,8 +153,8 @@ Vishal Pannala
 Topic: AngularJs
 
 ## Team Member 24
-Haritha Atmakuri
-Topic: grid 
+
+Topic:
 
 ## Team Member 25
 
@@ -182,8 +181,8 @@ Topic: Krishna Teja,K
 Topic:
 
 ## Team Member 31
-Name: Austin Caligiuri
-Topic: HTML
+
+Topic:
 
 ## Team Member 32
 
@@ -191,7 +190,7 @@ Topic:
 
 ## Team Member 33
 
-Topic:Section 06 - Sai Tejaswini Narne
+Topic: Section 06 - Sai Tejaswini Narne
 
 ## Team Member 34
 
@@ -199,7 +198,7 @@ Topic:
 
 ## Team Member 35
 
-Topic: FlexBox
+Topic:
 
 ## Team Member 36
 
@@ -218,8 +217,8 @@ Name: "Zachary Haider"
 Topic: Css
 
 ## Team Member 40
-Name: Chase Keller
-Topic: Css
+
+Topic:
 
 ## Team Member 41
 
