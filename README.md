@@ -52,7 +52,7 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## A - Instructor
 
-Topic: Hariitha Atmakuri
+Topic:
 
 ## B - Assistant
 <<<<<<< HEAD
@@ -155,8 +155,8 @@ Topic:
 Topic:
 
 ## Team Member 24
-
-Topic:
+Haritha Atmakuri
+Topic: grid 
 
 ## Team Member 25
 
