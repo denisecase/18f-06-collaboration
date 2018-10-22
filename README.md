@@ -100,7 +100,7 @@ Topic:
 
 ## Team Member 11 
 
-Topic:Durga Susmitha Kotyada
+Topic:Durga Susmitha Kotyada.
 
 ## Team Member 12
 
