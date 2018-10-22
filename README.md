@@ -58,9 +58,7 @@ Topic:
 <<<<<<< HEAD
 Topic: 
 =======
-Topic: Hariitha Atmakuri
->>>>>>> 96f56fecc5679436cdf99c87a5a65a12b06943ae
->>>>>>> d75035e04b426405943185eba64adbea3d2a584e
+Topic: 
 
 ## B - Assistant
 <<<<<<< Updated upstream
