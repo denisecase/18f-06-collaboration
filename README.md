@@ -190,13 +190,9 @@ Topic:
 Topic:
 
 ## Team Member 33
-<<<<<<< HEAD
+
 Section 06 - Sai Tejaswini Narne
 Topic: css.
-=======
-
-Topic: Section 06 - Sai Tejaswini Narne
->>>>>>> baecb2fe2e3242afb80b0f0588b3e41a2e6e6d4d
 
 ## Team Member 34
 
