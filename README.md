@@ -168,7 +168,7 @@ Topic: AngularJs
 
 ## Team Member 24
 Haritha Atmakuri
-Topic: grid 
+Topic: Grid,Bootstrap
 
 ## Team Member 25
 
