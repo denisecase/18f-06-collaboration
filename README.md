@@ -11,7 +11,7 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 ## Windows Requirements
 
 1. Git For Windows
-2. TortoiseGit
+2. TortoiseGiti
 
 ## Open Course Folder
 
@@ -53,34 +53,51 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 ## A - Instructor
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+<<<<<<< HEAD
+Topic: 
+=======
+=======
+>>>>>>> fcadac7f6b7bcab42f275a33676b14470f0e2b10
 Topic: 
 =======
 Topic: Hariitha Atmakuri
 >>>>>>> 96f56fecc5679436cdf99c87a5a65a12b06943ae
+=======
+Topic: Introducing others...
+>>>>>>> 7a615c2d3eeabed19a560586f1a9480dfcedb778
 
 ## B - Assistant
-<<<<<<< Updated upstream
 Topic: Devops
+<<<<<<< HEAD
+>>>>>>> 7b3923f23dbdff4f8392d1c006c83608d224c136
+>>>>>>> 96f56fecc5679436cdf99c87a5a65a12b06943ae
 =======
-
-Topic: 
->>>>>>> Stashed changes
+>>>>>>> fcadac7f6b7bcab42f275a33676b14470f0e2b10
 
 ## Team Member 1 
 
 <<<<<<< HEAD
-Topic:Gopi
+<<<<<<< HEAD
+## Team Member 1
+Topic : Devops
 =======
 Topic: 
->>>>>>> 7851862f873af3b63e44eb652b0fc899516aaa57
+>>>>>>> f69462f054b2575ea143465dded313d266e9e528
+=======
+Topic:Gopi
+
+>>>>>>> f035f6e5a9941a518d7e91d37ac9e3c3a99cb0e4
 
 ## Team Member 2 Varun Anugu
 
-Topic: Devops
+Topic: Devops 
 
 ## Team Member 3
 
-Topic:
+Name: Havya Ravipati Topic: VueJs
 
 ## Team Member 4
 
@@ -100,7 +117,7 @@ Topic:
 
 ## Team Member 8
 
-Topic:
+Topic: Harshitha
 
 ## Team Member 9
 
@@ -115,16 +132,16 @@ Topic:
 Topic:
 
 ## Team Member 12
-
-Topic:
+Name: Abhiram Madugula
+Topic: ReactJS
 
 ## Team Member 13
 
-Topic:
+Topic: ReactJS  (Satyavrath Injamuri)
 
 ## Team Member 14
 
-Topic:
+Topic:AKhila Reddy
 
 ## Team Member 15
 
@@ -165,8 +182,9 @@ Vishal Pannala
 Topic: AngularJs
 
 ## Team Member 24
+Haritha Atmakuri
+Topic: Grid,Bootstrap
 
-Topic:
 
 ## Team Member 25
 
@@ -174,16 +192,17 @@ Susritha Gade
 Topic: html
 
 ## Team Member 26
-
-Topic:
+Vennela Cheekoti
+Topic: css.
 
 ## Team Member 27
-
-Topic:
+Sathwika Gone
+Topic: html
 
 ## Team Member 28
 
-Topic: Dasari venkat 
+Topic: Dasari venkat
+Success
 
 ## Team Member 29
 
@@ -191,11 +210,12 @@ Topic: Krishna Teja,K
 
 ## Team Member 30
 
-Topic:
+Name: Mehar Choudhary
+Topic: Git Collaboration
 
 ## Team Member 31
-Name: Austin Caligiuri
-Topic: HTML
+
+Topic:
 
 ## Team Member 32
 
@@ -230,8 +250,8 @@ Name: "Zachary Haider"
 Topic: Css
 
 ## Team Member 40
-Name: Chase Keller
-Topic: Css
+
+Topic:
 
 ## Team Member 41
 
@@ -252,3 +272,7 @@ Topic:
 ## Team Member 45
 
 Topic:
+
+## Team Member 46
+Topic: Grid2D
+Name: chinmai sai sure
