@@ -115,11 +115,10 @@ Topic:
 
 ## Team Member 15
 
-<<<<<<< HEAD
 Topic: AKhila Reddy
-=======
-Topic: 
->>>>>>> 4aaaafc6ea68e3a1fcef7e45e5bfa7f55d511c1b
+
+
+
 
 ## Team Member 16
 
