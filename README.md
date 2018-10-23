@@ -189,7 +189,7 @@ Topic: Grid,Bootstrap
 ## Team Member 25
 
 Susritha Gade
-Topic: html
+Topic: html.
 
 ## Team Member 26
 Vennela Cheekoti
