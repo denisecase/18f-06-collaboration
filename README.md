@@ -172,7 +172,7 @@ Topic:
 
 ## Team Member 26
 Vennela Cheekoti
-Topic: css
+Topic: css.
 
 ## Team Member 27
 
