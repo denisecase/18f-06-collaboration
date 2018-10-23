@@ -103,9 +103,9 @@ Name: Havya Ravipati Topic: VueJs
 
 Topic:
 
-## Team Member 5 Sanjana Tummala
-
-Topic: 
+## Team Member 5 
+Name: Sanjana Tummala
+Topic: html
 
 
 ## Team Member 6
