@@ -52,33 +52,7 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## A - Instructor
 
-=======
-
-
-Topic: Hariitha Atmakuri
-=======
-
-
-Topic: Satyakanth Reddy Kolakani
-=======
-Topic: Hariitha Atmakuri
-
-=======
-Topic:
-
-
-## B - Assistant
-Topic: Devops
-
-## Team Member 1 Gopi
-
-Topic:DevOps
-=======
-
-Topic:
-
-
-Topic: Hariitha Atmakuri
+Topic: Introducing others to interesting and useful computer science topics.
 
 ## B - Assistant
 Topic: Devops
