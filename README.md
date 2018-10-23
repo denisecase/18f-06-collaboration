@@ -162,13 +162,9 @@ Vishal Pannala
 Topic: AngularJs
 
 ## Team Member 24
-<<<<<<< HEAD
 Haritha Atmakuri
 Topic: Grid,Bootstrap
-=======
 
-Topic:
->>>>>>> e631103553713a3d8bc6d8fb810483b236ee402d
 
 ## Team Member 25
 
