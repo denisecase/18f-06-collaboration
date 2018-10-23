@@ -11,7 +11,7 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 ## Windows Requirements
 
 1. Git For Windows
-2. TortoiseGit
+2. TortoiseGiti
 
 ## Open Course Folder
 
@@ -52,35 +52,18 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## A - Instructor
 
-<<<<<<< HEAD
-Topic:
-=======
-<<<<<<< HEAD
-Topic: 
-=======
-Topic: Hariitha Atmakuri
->>>>>>> 96f56fecc5679436cdf99c87a5a65a12b06943ae
->>>>>>> d75035e04b426405943185eba64adbea3d2a584e
+Topic: Introducing others to interesting and useful computer science topics.
 
 ## B - Assistant
-<<<<<<< Updated upstream
 Topic: Devops
-=======
-
-Topic: 
->>>>>>> Stashed changes
 
 ## Team Member 1 
 
-<<<<<<< HEAD
-Topic:Gopi
-=======
 Topic: 
->>>>>>> 7851862f873af3b63e44eb652b0fc899516aaa57
 
 ## Team Member 2 Varun Anugu
 
-Topic: Devops
+Topic: Devops 
 
 ## Team Member 3
 
@@ -124,7 +107,7 @@ Topic:
 
 ## Team Member 13
 
-Topic:
+Topic: ReactJS  (Satyavrath Injamuri)
 
 ## Team Member 14
 
@@ -152,7 +135,9 @@ Topic:
 
 ## Team Member 20
 
-Topic:
+
+Name:Satyakanth Kolakani
+Topic:Flex Box
 
 ## Team Member 21
 
@@ -169,8 +154,8 @@ Vishal Pannala
 Topic: AngularJs
 
 ## Team Member 24
-Haritha Atmakuri
-Topic: grid 
+
+Topic:
 
 ## Team Member 25
 
@@ -197,16 +182,21 @@ Topic: Krishna Teja,K
 Topic:
 
 ## Team Member 31
-Name: Austin Caligiuri
-Topic: HTML
+
+Topic:
 
 ## Team Member 32
 
 Topic:
 
 ## Team Member 33
+<<<<<<< HEAD
 Section 06 - Sai Tejaswini Narne
 Topic: css.
+=======
+
+Topic: Section 06 - Sai Tejaswini Narne
+>>>>>>> baecb2fe2e3242afb80b0f0588b3e41a2e6e6d4d
 
 ## Team Member 34
 
@@ -233,8 +223,8 @@ Name: "Zachary Haider"
 Topic: Css
 
 ## Team Member 40
-Name: Chase Keller
-Topic: Css
+
+Topic:
 
 ## Team Member 41
 
