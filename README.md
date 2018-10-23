@@ -52,44 +52,40 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## A - Instructor
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+=======
 
-<<<<<<< HEAD
-Topic: 
+
+Topic: Hariitha Atmakuri
 =======
-=======
->>>>>>> fcadac7f6b7bcab42f275a33676b14470f0e2b10
-Topic: 
+
+
+Topic: Satyakanth Reddy Kolakani
 =======
 Topic: Hariitha Atmakuri
->>>>>>> 96f56fecc5679436cdf99c87a5a65a12b06943ae
+
 =======
-Topic: Introducing others...
->>>>>>> 7a615c2d3eeabed19a560586f1a9480dfcedb778
+Topic:
+
 
 ## B - Assistant
 Topic: Devops
-<<<<<<< HEAD
->>>>>>> 7b3923f23dbdff4f8392d1c006c83608d224c136
->>>>>>> 96f56fecc5679436cdf99c87a5a65a12b06943ae
+
+## Team Member 1 Gopi
+
+Topic:DevOps
 =======
->>>>>>> fcadac7f6b7bcab42f275a33676b14470f0e2b10
+
+Topic:
+
+
+Topic: Hariitha Atmakuri
+
+## B - Assistant
+Topic: Devops
 
 ## Team Member 1 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-## Team Member 1
-Topic : Devops
-=======
 Topic: 
->>>>>>> f69462f054b2575ea143465dded313d266e9e528
-=======
-Topic:Gopi
-
->>>>>>> f035f6e5a9941a518d7e91d37ac9e3c3a99cb0e4
 
 ## Team Member 2 Varun Anugu
 
@@ -97,16 +93,15 @@ Topic: Devops
 
 ## Team Member 3
 
-Name: Havya Ravipati Topic: VueJs
+Topic:
 
 ## Team Member 4
 
 Topic:
 
-## Team Member 5 
-Name: Sanjana Tummala
-Topic: html
+## Team Member 5
 
+Topic:
 
 ## Team Member 6
 
@@ -118,7 +113,7 @@ Topic:
 
 ## Team Member 8
 
-Topic: Harshitha
+Topic:
 
 ## Team Member 9
 
@@ -133,8 +128,8 @@ Topic:
 Topic:
 
 ## Team Member 12
-Name: Abhiram Madugula
-Topic: ReactJS
+
+Topic:
 
 ## Team Member 13
 
@@ -142,7 +137,7 @@ Topic: ReactJS  (Satyavrath Injamuri)
 
 ## Team Member 14
 
-Topic:AKhila Reddy
+Topic:
 
 ## Team Member 15
 
@@ -166,12 +161,13 @@ Topic:
 
 ## Team Member 20
 
-Topic:
+
+Name:Satyakanth Kolakani
+Topic:Flex Box
 
 ## Team Member 21
 
-Name : Suresh Chandra Peddinti
-Topic:Vue JS
+Topic:
 
 ## Team Member 22
 
@@ -184,27 +180,24 @@ Vishal Pannala
 Topic: AngularJs
 
 ## Team Member 24
-Haritha Atmakuri
-Topic: Grid,Bootstrap
 
+Topic:
 
 ## Team Member 25
 
-Susritha Gade
-Topic: html.
+Topic:
 
 ## Team Member 26
-Vennela Cheekoti
-Topic: css.
+
+Topic:
 
 ## Team Member 27
-Sathwika Gone
-Topic: html
+
+Topic:
 
 ## Team Member 28
 
-Topic: Dasari venkat
-Success
+Topic: Dasari venkat 
 
 ## Team Member 29
 
@@ -212,8 +205,7 @@ Topic: Krishna Teja,K
 
 ## Team Member 30
 
-Name: Mehar Choudhary
-Topic: Git Collaboration
+Topic:
 
 ## Team Member 31
 
@@ -274,7 +266,3 @@ Topic:
 ## Team Member 45
 
 Topic:
-
-## Team Member 46
-Topic: Grid2D
-Name: chinmai sai sure
