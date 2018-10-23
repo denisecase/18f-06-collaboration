@@ -205,8 +205,8 @@ Topic: HTML
 Topic:
 
 ## Team Member 33
-
-Topic:Section 06 - Sai Tejaswini Narne
+Section 06 - Sai Tejaswini Narne
+Topic: css.
 
 ## Team Member 34
 
