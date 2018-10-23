@@ -239,8 +239,4 @@ Topic:
 
 ## Team Member 44
 
-Topic:
-
-## Team Member 45
-
-Topic:
+Topic:Grid 2D
