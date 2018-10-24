@@ -136,8 +136,8 @@ Topic:3D-Grid
 Topic:
 
 ## Team Member 19
-
-Topic:
+Name: Jacob McCullough
+Topic: CSS
 
 ## Team Member 20
 
