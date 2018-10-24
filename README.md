@@ -11,7 +11,7 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 ## Windows Requirements
 
 1. Git For Windows
-2. TortoiseGit
+2. TortoiseGiti
 
 ## Open Course Folder
 
@@ -52,34 +52,27 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## A - Instructor
 
-<<<<<<< HEAD
-Topic: 
-=======
-Topic: Hariitha Atmakuri
->>>>>>> 96f56fecc5679436cdf99c87a5a65a12b06943ae
+<
 
 ## B - Assistant
 Topic: Devops
 
-## Team Member 1 
+## Team Member 1 Gopi Amara
 
-<<<<<<< HEAD
-Topic:Gopi
-=======
-Topic: 
->>>>>>> 7851862f873af3b63e44eb652b0fc899516aaa57
+Topic: SSH Keys
 
 ## Team Member 2 Varun Anugu
 
-Topic: Devops
+Topic:  css
 
 ## Team Member 3
 
 Topic:
 
-## Team Member 4
+## Team Member 4 
+<p>Pranathi Mothe</p>
 
-Topic:
+ Topic : css
 
 ## Team Member 5
 
@@ -91,7 +84,8 @@ Topic:
 
 ## Team Member 7
 
-Topic:
+
+      
 
 ## Team Member 8
 
@@ -116,7 +110,7 @@ Topic:
 
 ## Team Member 13
 
-Topic:
+Topic: ReactJS  (Satyavrath Injamuri) latest
 
 ## Team Member 14
 
@@ -124,15 +118,18 @@ Topic:
 
 ## Team Member 15
 
-Topic: Jyoshna Boppidi
+Topic: AKhila Gandra
+
+
+
 
 ## Team Member 16
 
-Topic:
+Topic: Jyoshna Boppidi
 
 ## Team Member 17
-
-Topic:
+Name: Himabindu Poshala
+Topic:3D-Grid
 
 ## Team Member 18
 
@@ -144,15 +141,17 @@ Topic:
 
 ## Team Member 20
 
-Topic:
+
+Name:Satyakanth Kolakani
+Topic:Flex Box
 
 ## Team Member 21
 
 Topic:
 
 ## Team Member 22
-
-Topic:
+<p>Name: Saikumar Nalivela</p>
+Topic: Bootstrap,Flex Box
 
 ## Team Member 23
 
@@ -198,7 +197,8 @@ Topic:
 
 ## Team Member 33
 
-Topic: Section 06 - Sai Tejaswini Narne
+Section 06 - Sai Tejaswini Narne
+Topic: css.
 
 ## Team Member 34
 
@@ -241,9 +241,5 @@ Topic:
 Topic:
 
 ## Team Member 44
-
-Topic:
-
-## Team Member 45
-
-Topic:
+Chinmai Sai 
+Topic:Grid 2D
