@@ -11,7 +11,7 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 ## Windows Requirements
 
 1. Git For Windows
-2. TortoiseGit
+2. TortoiseGiti
 
 ## Open Course Folder
 
@@ -52,48 +52,27 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## A - Instructor
 
-<<<<<<< HEAD
-Topic:
+<
 
 ## B - Assistant
 Topic: Devops
 
-## Team Member 1 Gopi
+## Team Member 1 Gopi Amara
 
-Topic:DevOps
-=======
-
-Topic:
-<<<<<<< HEAD
-
-Topic: Hariitha Atmakuri
-
-=======
-=======
-<<<<<<< HEAD
-Topic: 
-=======
-Topic: 
-
-## B - Assistant
-
-Topic: 
-
-## Team Member 1 
-
-Topic: 
+Topic: SSH Keys
 
 ## Team Member 2 Varun Anugu
 
-Topic: Devops
+Topic:  css
 
 ## Team Member 3
 
 Topic:
 
-## Team Member 4
+## Team Member 4 
+<p>Pranathi Mothe</p>
 
-Topic:
+ Topic : css
 
 ## Team Member 5
 
@@ -105,7 +84,8 @@ Topic:
 
 ## Team Member 7
 
-Topic:
+
+      
 
 ## Team Member 8
 
@@ -129,23 +109,26 @@ Topic:
 
 ## Team Member 13
 
-Topic:
+Topic: ReactJS  (Satyavrath Injamuri) latest
 
 ## Team Member 14
 
-Topic:AKhila Reddy
+Topic:
 
 ## Team Member 15
 
-Topic: Jyoshna Boppidi
+Topic: AKhila Gandra
+
+
+
 
 ## Team Member 16
 
-Topic:
+Topic: Jyoshna Boppidi
 
 ## Team Member 17
-
-Topic:
+Name: Himabindu Poshala
+Topic:3D-Grid
 
 ## Team Member 18
 
@@ -157,15 +140,17 @@ Topic:
 
 ## Team Member 20
 
-Topic:
+
+Name:Satyakanth Kolakani
+Topic:Flex Box
 
 ## Team Member 21
 
 Topic:
 
 ## Team Member 22
-
-Topic:
+<p>Name: Saikumar Nalivela</p>
+Topic: Bootstrap,Flex Box
 
 ## Team Member 23
 
@@ -174,8 +159,8 @@ Vishal Pannala
 Topic: AngularJs
 
 ## Team Member 24
-Haritha Atmakuri
-Topic: grid 
+
+Topic:
 
 ## Team Member 25
 
@@ -199,19 +184,20 @@ Topic: Krishna Teja,K
 
 ## Team Member 30
 
-Topic: Mehar Choudhary
+Topic:
 
 ## Team Member 31
-Name: Austin Caligiuri
-Topic: HTML
+
+Topic:
 
 ## Team Member 32
 
-Topic: Section 06 - Harika, Naidu
+Topic:
 
 ## Team Member 33
 
-Topic:Section 06 - Sai Tejaswini Narne
+Section 06 - Sai Tejaswini Narne
+Topic: css.
 
 ## Team Member 34
 
@@ -219,7 +205,7 @@ Topic:
 
 ## Team Member 35
 
-Topic: FlexBox
+Topic:
 
 ## Team Member 36
 
@@ -238,8 +224,8 @@ Name: "Zachary Haider"
 Topic: Css
 
 ## Team Member 40
-Name: Chase Keller
-Topic: Css
+
+Topic:
 
 ## Team Member 41
 
@@ -254,9 +240,5 @@ Topic:
 Topic:
 
 ## Team Member 44
-
-Topic:
-
-## Team Member 45
-
-Topic:
+Chinmai Sai 
+Topic:Grid 2D
