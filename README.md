@@ -193,7 +193,8 @@ Topic:
 
 ## Team Member 32
 
-Topic:
+Section 06 - Harika, Naidu
+Topic: Html
 
 ## Team Member 33
 
