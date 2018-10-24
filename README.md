@@ -98,7 +98,7 @@ Topic:CSS.
 
 ## Team Member 10
 
-Topic:Kalvakuri lakshmi seshu.
+Topic:Kalvakuri lakshmi seshu...
 
 ## Team Member 11 
 Name:Durga Susmitha Kotyada.
