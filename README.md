@@ -11,7 +11,7 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 ## Windows Requirements
 
 1. Git For Windows
-2. TortoiseGit
+2. TortoiseGiti
 
 ## Open Course Folder
 
@@ -52,26 +52,31 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## A - Instructor
 
+<<<<<<< HEAD
 Topic: 
+=======
+Topic: Introducing others to interesting and useful computer science topics.
+>>>>>>> 23c95356a1c2c8647fe267472f15f15bc5e38958
 
 ## B - Assistant
 Topic: Devops
 
-## Team Member 1 
+## Team Member 1 Gopi Amara
 
-Topic: 
+Topic: SSH Keys
 
 ## Team Member 2 Varun Anugu
 
-Topic: Devops
+Topic:  css
 
 ## Team Member 3
 
 Topic:
 
-## Team Member 4
+## Team Member 4 
+<p>Pranathi Mothe</p>
 
-Topic:
+ Topic : css
 
 ## Team Member 5
 
@@ -83,7 +88,12 @@ Topic:
 
 ## Team Member 7
 
-Topic:
+<<<<<<< HEAD
+Topic:web design-priyanka bonam
+=======
+Topic:web design
+>>>>>>> 62e9ab8a38649ec5305fa7b3ac8471177781f555
+      
 
 ## Team Member 8
 
@@ -107,7 +117,7 @@ Topic:
 
 ## Team Member 13
 
-Topic:
+Topic: ReactJS  (Satyavrath Injamuri) latest
 
 ## Team Member 14
 
@@ -115,11 +125,14 @@ Topic:
 
 ## Team Member 15
 
-Topic: Jyoshna Boppidi
+Topic: AKhila Gandra
+
+
+
 
 ## Team Member 16
 
-Topic:
+Topic: Jyoshna Boppidi
 
 ## Team Member 17
 
@@ -135,7 +148,9 @@ Topic:
 
 ## Team Member 20
 
-Topic:
+
+Name:Satyakanth Kolakani
+Topic:Flex Box
 
 ## Team Member 21
 
@@ -147,7 +162,9 @@ Topic:
 
 ## Team Member 23
 
-Topic:
+
+Vishal Pannala
+Topic: AngularJs
 
 ## Team Member 24
 
@@ -167,11 +184,11 @@ Topic:
 
 ## Team Member 28
 
-Topic:
+Topic: Dasari venkat 
 
 ## Team Member 29
 
-Topic:
+Topic: Krishna Teja,K
 
 ## Team Member 30
 
@@ -187,7 +204,8 @@ Topic:
 
 ## Team Member 33
 
-Topic:
+Section 06 - Sai Tejaswini Narne
+Topic: css.
 
 ## Team Member 34
 
@@ -199,7 +217,7 @@ Topic:
 
 ## Team Member 36
 
-Topic:
+Topic: JavaScript
 
 ## Team Member 37:
 
@@ -230,9 +248,5 @@ Topic:
 Topic:
 
 ## Team Member 44
-
-Topic:
-
-## Team Member 45
-
-Topic:
+Chinmai Sai 
+Topic:Grid 2D
