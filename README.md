@@ -52,11 +52,7 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## A - Instructor
 
-<<<<<<< HEAD
-Topic: 
-=======
-Topic: Introducing others to interesting and useful computer science topics.
->>>>>>> 23c95356a1c2c8647fe267472f15f15bc5e38958
+<
 
 ## B - Assistant
 Topic: Devops
@@ -88,11 +84,7 @@ Topic:
 
 ## Team Member 7
 
-<<<<<<< HEAD
-Topic:web design-priyanka bonam
-=======
-Topic:web design
->>>>>>> 62e9ab8a38649ec5305fa7b3ac8471177781f555
+
       
 
 ## Team Member 8
@@ -135,8 +127,8 @@ Topic: AKhila Gandra
 Topic: Jyoshna Boppidi
 
 ## Team Member 17
-
-Topic:
+Name: Himabindu Poshala
+Topic:3D-Grid
 
 ## Team Member 18
 
