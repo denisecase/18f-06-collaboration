@@ -208,7 +208,8 @@ section 06 - Mouni Krishna, Atluri
 
 ## Team Member 35
 
-Topic:
+Topic: FlexBox
+Section 06 - Swathi Challagundla
 
 ## Team Member 36
 
