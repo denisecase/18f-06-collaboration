@@ -194,7 +194,7 @@ Topic:
 ## Team Member 32
 
 Section 06 - Harika, Naidu
-Topic: Html
+Topic: I like developing web applications using html
 
 ## Team Member 33
 
