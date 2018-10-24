@@ -57,9 +57,9 @@ Topic: Introducing others to interesting and useful computer science topics.
 ## B - Assistant
 Topic: Devops
 
-## Team Member 1 
+## Team Member 1 Gopi Amara
 
-Topic: 
+Topic: SSH Keys
 
 ## Team Member 2 Varun Anugu
 
