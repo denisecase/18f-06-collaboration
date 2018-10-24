@@ -11,7 +11,7 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 ## Windows Requirements
 
 1. Git For Windows
-2. TortoiseGit
+2. TortoiseGiti
 
 ## Open Course Folder
 
@@ -52,26 +52,27 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## A - Instructor
 
-Topic: Hariitha Atmakuri
+Topic: Introducing others to interesting and useful computer science topics.
 
 ## B - Assistant
 Topic: Devops
 
-## Team Member 1 
+## Team Member 1 Gopi Amara
 
-Topic: 
+Topic: SSH Keys
 
 ## Team Member 2 Varun Anugu
 
-Topic: Devops
+Topic: Devops 
 
 ## Team Member 3
 
 Topic:
 
-## Team Member 4
+## Team Member 4 
+<p>Pranathi Mothe</p>
 
-Topic:
+ Topic : css
 
 ## Team Member 5
 
@@ -83,7 +84,8 @@ Topic:
 
 ## Team Member 7
 
-Topic: priyanka Bonam(7)
+Topic:web design
+      
 
 ## Team Member 8
 
@@ -107,7 +109,7 @@ Topic:
 
 ## Team Member 13
 
-Topic:
+Topic: ReactJS  (Satyavrath Injamuri) latest
 
 ## Team Member 14
 
@@ -115,11 +117,14 @@ Topic:
 
 ## Team Member 15
 
-Topic: Jyoshna Boppidi
+Topic: AKhila Gandra
+
+
+
 
 ## Team Member 16
 
-Topic:
+Topic: Jyoshna Boppidi
 
 ## Team Member 17
 
@@ -135,7 +140,9 @@ Topic:
 
 ## Team Member 20
 
-Topic:
+
+Name:Satyakanth Kolakani
+Topic:Flex Box
 
 ## Team Member 21
 
@@ -169,7 +176,7 @@ Topic:
 
 ## Team Member 28
 
-Topic:
+Topic: Dasari venkat 
 
 ## Team Member 29
 
@@ -189,7 +196,8 @@ Topic:
 
 ## Team Member 33
 
-Topic:
+Section 06 - Sai Tejaswini Narne
+Topic: css.
 
 ## Team Member 34
 
@@ -232,9 +240,5 @@ Topic:
 Topic:
 
 ## Team Member 44
-
-Topic:
-
-## Team Member 45
-
-Topic:
+Chinmai Sai 
+Topic:Grid 2D
