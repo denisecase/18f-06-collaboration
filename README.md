@@ -204,7 +204,7 @@ Topic: css.
 ## Team Member 34
 
 Topic: bootstrap
-section 06 - Mouni Krishna Atluri
+section 06 - Mouni Krishna, Atluri
 
 ## Team Member 35
 
