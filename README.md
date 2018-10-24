@@ -121,7 +121,7 @@ Topic:
 
 ## Team Member 11 
 Name:Durga Susmitha Kotyada.
-Topic:HTML..
+Topic:HTML
 
 ## Team Member 12
 
