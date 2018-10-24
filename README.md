@@ -11,7 +11,7 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 ## Windows Requirements
 
 1. Git For Windows
-2. TortoiseGit
+2. TortoiseGiti
 
 ## Open Course Folder
 
@@ -52,39 +52,27 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## A - Instructor
 
-<<<<<<< HEAD
-Topic: 
-=======
-Topic: Hariitha Atmakuri
->>>>>>> 96f56fecc5679436cdf99c87a5a65a12b06943ae
+<
 
 ## B - Assistant
-<<<<<<< Updated upstream
 Topic: Devops
-=======
 
-Topic: 
->>>>>>> Stashed changes
+## Team Member 1 Gopi Amara
 
-## Team Member 1 
-
-<<<<<<< HEAD
-Topic:Gopi
-=======
-Topic: 
->>>>>>> 7851862f873af3b63e44eb652b0fc899516aaa57
+Topic: SSH Keys
 
 ## Team Member 2 Varun Anugu
 
-Topic: Devops
+Topic:  css
 
 ## Team Member 3
 
 Topic:
 
-## Team Member 4
+## Team Member 4 
+<p>Pranathi Mothe</p>
 
-Topic:
+ Topic : css
 
 ## Team Member 5
 
@@ -96,23 +84,25 @@ Topic:
 
 ## Team Member 7
 
-Topic:
+
+      
 
 ## Team Member 8
 
 Topic:
 
-## Team Member 9
+## Team Member 9 Hari Priya Jupally
 
-Topic:
+Topic:CSS.
+      
 
 ## Team Member 10
 
 Topic:Kalvakuri lakshmi seshu.
 
-## Team Member 11
-
-Topic:
+## Team Member 11 
+Name:Durga Susmitha Kotyada.
+Topic:HTML..
 
 ## Team Member 12
 
@@ -120,7 +110,7 @@ Topic:
 
 ## Team Member 13
 
-Topic:
+Topic: ReactJS  (Satyavrath Injamuri) latest
 
 ## Team Member 14
 
@@ -128,15 +118,18 @@ Topic:
 
 ## Team Member 15
 
-Topic: Jyoshna Boppidi
+Topic: AKhila Gandra
+
+
+
 
 ## Team Member 16
 
-Topic:
+Topic: Jyoshna Boppidi
 
 ## Team Member 17
-
-Topic:
+Name: Himabindu Poshala
+Topic:3D-Grid
 
 ## Team Member 18
 
@@ -148,15 +141,17 @@ Topic:
 
 ## Team Member 20
 
-Topic:
+
+Name:Satyakanth Kolakani
+Topic:Flex Box
 
 ## Team Member 21
 
 Topic:
 
 ## Team Member 22
-
-Topic:
+<p>Name: Saikumar Nalivela</p>
+Topic: Bootstrap,Flex Box
 
 ## Team Member 23
 
@@ -193,24 +188,28 @@ Topic: Krishna Teja,K
 Topic:
 
 ## Team Member 31
-Name: Austin Caligiuri
-Topic: HTML
+
+Topic:
 
 ## Team Member 32
 
-Topic:
+Section 06 - Harika, Naidu
+Topic: I like developing web applications using html
 
 ## Team Member 33
 
-Topic: Section 06 - Sai Tejaswini Narne
+Section 06 - Sai Tejaswini Narne
+Topic: css.
 
 ## Team Member 34
 
-Topic:
+Topic: bootstrap
+section 06 - Mouni Krishna, Atluri
 
 ## Team Member 35
 
-Topic:
+Topic: FlexBox
+Section 06 - Swathi Challagundla
 
 ## Team Member 36
 
@@ -229,8 +228,8 @@ Name: "Zachary Haider"
 Topic: Css
 
 ## Team Member 40
-Name: Chase Keller
-Topic: Css
+
+Topic:
 
 ## Team Member 41
 
@@ -245,9 +244,5 @@ Topic:
 Topic:
 
 ## Team Member 44
-
-Topic:
-
-## Team Member 45
-
-Topic:
+Chinmai Sai 
+Topic:Grid 2D
