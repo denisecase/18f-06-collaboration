@@ -78,9 +78,9 @@ Topic:
 
 Topic:
 
-## Team Member 6
+## Team Member 6 Zaiba Ali
 
-Topic:
+Topic: HTML
 
 ## Team Member 7
 
